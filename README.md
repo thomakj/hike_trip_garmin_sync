@@ -1,0 +1,1 @@
+# hike_trip_garmin_sync
